@@ -1,0 +1,55 @@
+body{
+    margin:0px;
+}
+span{
+    color:cornsilk;
+    margin-right: 30px;
+}
+img{
+    border-radius: 50%;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+#main-left{
+    width:40%;
+    float:left;
+    text-align: center;
+    margin-top: 40px;
+}
+#main-right{
+    width: 60%;
+    float:right;
+    height: 400px;
+    text-align: left;
+}
+#header{
+    background-color: black;
+    height:70px;
+}
+#brand {
+    width: 40%;
+    float:left;
+    height: 70px;
+    text-align: center;
+    color:white;
+}
+#menu{
+    text-align: center;
+    width: 60%;
+    float: right;
+    height: 70px;
+    line-height: 70px;
+}
+#list-of-images{
+    margin-top: 100px;
+}
+#footer{
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+    margin-top: 100px;
+    color: white;
+    height: 250px;
+}

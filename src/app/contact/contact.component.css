@@ -1,0 +1,140 @@
+
+#helps {
+    box-sizing: border-box;
+    margin-top: 15px;
+    margin-left: 18%;
+    width: 850px;
+    height: 515px;
+    padding-bottom: 10px;
+    background-color: #051a2e;
+    box-shadow: 0px 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+#heading {
+    position: absolute;
+    width: 260px;
+    height: 52px;
+    margin-top: 10px;
+    margin-left: 330px;
+    font-family: 'Shobhika';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 52px;
+    color: #FFFFFF;
+}
+
+#icon {
+    
+    font-size: 40px;
+    padding-left: 10px;
+    padding-top: 5px;
+   
+}
+
+.adress {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+
+
+.location {
+    height: 60px;
+    width: 60px;
+    background-color: #ffffffec;
+    border-radius: 50%;
+}
+
+#add {
+    position: absolute;
+    width: 125px;
+    height: 47px;
+    font-family: 'Shobhika';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: -25px;
+    margin-top: -5px;
+    line-height: 47px;
+    color: #FFFFFF;
+}
+
+#content {
+    position: absolute;
+    width: 243px;
+    height: 105px;
+    font-family: 'Shobhika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 35px;
+    text-align: center;
+    margin-left: -100px;
+    color: #FFFFFF;
+}
+
+#hod {
+    font-family: 'Shobhika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 180px;
+    margin-left: -28px;
+}
+.telphone{
+    position: absolute;
+    
+    margin-left: 390px;
+    margin-top: 100px;
+}
+.phone{
+    height: 60px;
+    width: 60px;
+    background-color: #FFFFFF;
+    border-radius: 50%;    
+}
+#heas{
+    position: absolute;
+    width: 125px;
+    height: 47px;
+    font-family: 'Shobhika';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: -10px;
+    margin-top: -5px;
+    line-height: 47px;
+    color: #FFFFFF;
+}
+.hEmail{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    margin-left: 680px;
+    margin-top: 100px;
+}
+a i {
+    transition: all 0.3s linear;
+}
+
+a:hover i {
+    transform: scale(1.5);
+}
+
+.homee:hover {
+    color: red;
+}
+
+.phon:hover {
+    color: green;
+}
+
+.mails:hover {
+    color: rgb(255, 81, 0);
+}
